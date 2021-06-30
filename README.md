@@ -5,4 +5,4 @@ EXPERIMENT INDEX
 2. Regular Expression to NFA
 3. NFA to DFA
 4. Left factoring 
-5. 
+5. First and Follow
