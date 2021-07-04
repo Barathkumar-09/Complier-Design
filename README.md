@@ -7,4 +7,5 @@ EXPERIMENT INDEX
 4. Left factoring 
 5. First and Follow
 6. Predictive Parsing Table
-7. 
+7. Shift Reduce Parsing
+8. 
