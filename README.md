@@ -8,4 +8,5 @@ EXPERIMENT INDEX
 5. First and Follow
 6. Predictive Parsing Table
 7. Shift Reduce Parsing
-8. 
+8. Leading and trailing sets
+9. 
