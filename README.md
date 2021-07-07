@@ -9,4 +9,4 @@ EXPERIMENT INDEX
 6. Predictive Parsing Table
 7. Shift Reduce Parsing
 8. Leading and trailing sets
-9. 
+9. Computation of LR(0)
