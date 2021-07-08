@@ -10,3 +10,5 @@ EXPERIMENT INDEX
 7. Shift Reduce Parsing
 8. Leading and trailing sets
 9. Computation of LR(0)
+10. Intermediate code generation
+11. 
