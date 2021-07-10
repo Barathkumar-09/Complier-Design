@@ -11,5 +11,5 @@ EXPERIMENT INDEX
 8. Leading and trailing sets
 9. Computation of LR(0)
 10. Intermediate code generation
-11. Implementation of Intermediate code generation – Quadruple, Triple, Indirect triple
+11. Storage Allocation -Stack
 
